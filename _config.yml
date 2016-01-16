@@ -12,11 +12,11 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://erichall87.github.io/
-baseurl: /sustain/
-title: Eric Hall
+baseurl: /eric/ 
+title: 
 author: Eric Hall
 description: Personal blog and resume
-avatar: profile.png
+avatar: profile.jpg
 email: eric.hall87@email.com
 github: erichall87 # username
 twitter: erichall87
