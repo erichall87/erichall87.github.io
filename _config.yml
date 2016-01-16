@@ -1,6 +1,6 @@
 # top level stuff you probably don't need to touch
 highlighter: pygments
-markdown: rdiscount
+markdown: kramdown
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
@@ -11,20 +11,16 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
+url: http://erichall87.github.io/
 baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+title: Eric Hall
+author: Eric Hall
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
-disqus: username
-google_analytics: UA-69391421-1
+email: eric.hall87@email.com
+github: erichall87 # username
+twitter: erichall87
+linkedin: Eric Hall
 
 
 # needed for travis-ci build
