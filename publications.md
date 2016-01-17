@@ -22,7 +22,9 @@ title: Publications
 
 &nbsp;
 
+Visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7jVYdAvKlt_-GKxfec5hr52Fjd191qETDiUcTC-32X3EPJV_THgdP0pCC1q1NaH8gcZDFLmxwFnS134ZgW9dsKEmrq_w&user=nBJrH04AAAAJ)
+
 &nbsp;
 
-Visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7jVYdAvKlt_-GKxfec5hr52Fjd191qETDiUcTC-32X3EPJV_THgdP0pCC1q1NaH8gcZDFLmxwFnS134ZgW9dsKEmrq_w&user=nBJrH04AAAAJ)
+&nbsp;
 
