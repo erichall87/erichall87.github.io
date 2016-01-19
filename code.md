@@ -1,3 +1,9 @@
+---
+layout: layout
+title: Code
+---
+
+
 # <center>Dynamic Mirror Descent [<a href="https://arxiv.org/abs/1307.5944">arXiv 1307.5944</a>]</center>
 
 ### DMD for Dynamic Textures
