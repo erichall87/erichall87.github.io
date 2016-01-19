@@ -9,11 +9,11 @@ title: Publications
 - Eric C. Hall, Rebecca M. Willett, "[Online Convex Optimization in Dynamic Environments](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7044563)," IEEE Journal of Selected Topics in Signal Processing - Signal Processing for Big Data, vol. 9, no 4. 2015. \[[arXiv](http://arxiv.org/abs/1307.5944)\]
 
 ###Conference Papers
-- Eric C. Hall, Rebecca M. Willett, "[Online Learning of Neural Network Structure From Spike Trains](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7146778&tag=1)," 7th International IEEE EMBS Neural Engineering Conference (NER '15), 2015
+- Eric C. Hall, Rebecca M. Willett, "[Online Learning of Neural Network Structure From Spike Trains](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7146778)," 7th International IEEE EMBS Neural Engineering Conference (NER '15), 2015
 
 - Eric C. Hall, Rebecca M. Willett, "[Foreground and Background Reconstruction in Poisson Video](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6738512)," IEEE International Conference on Image Processing (ICIP), 2013.
 
-- Eric C. Hall, Rebecca M. Willett, "[Online Optimization in Parametric Dynamic Environments](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6736502&tag=1)," 51st Annual Allerton Conference on Communications, Control and Computing. 2013. 
+- Eric C. Hall, Rebecca M. Willett, "[Online Optimization in Parametric Dynamic Environments](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6736502)," 51st Annual Allerton Conference on Communications, Control and Computing. 2013. 
 
 - Eric C. Hall, Rebecca M. Willett, "[Dynamical Models and Tracking Regret in Online Convex Programming](http://jmlr.csail.mit.edu/proceedings/papers/v28/hall13.html)," International Conference on Machine Learning (ICML), 2013. \[[arXiv](http://arxiv.org/abs/1301.1254)\]
 
