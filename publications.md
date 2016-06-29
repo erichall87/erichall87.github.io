@@ -4,11 +4,11 @@ title: Publications
 ---
 
 ### Journal Papers
+- Eric C. Hall, Garvesh Raskutti, Rebecca M. Willett, "Inference of High-dimensional Autoregressive Generalized Linear Models," IEEE Journal on Information Theory *(submitted)*, 2016. \[[arxiv](http://arXiv.org/abs/605.02693)\]
+
 - Eric C. Hall, Rebecca M. Willett, "[Tracking Dynamic Point Processes on Networks](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7469837)," IEEE Journal on Information Theory , vol 62, no 7. 2016. \[[arXiv](http://arXiv.org/abs/1409.0031)\]
 
 - Eric C. Hall, Rebecca M. Willett, "[Online Convex Optimization in Dynamic Environments](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7044563)," IEEE Journal of Selected Topics in Signal Processing - Signal Processing for Big Data, vol. 9, no 4. 2015. \[[arXiv](http://arxiv.org/abs/1307.5944)\]
-
-- Eric C. Hall, Garvesh Raskutti, Rebecca M. Willett, "Inference of High-dimensional Autoregressive Generalized Linear Models," IEEE Journal on Information Theory *(submitted)*, 2016. [arxiv](http://arXiv.org/abs/605.02693)
 
 ### Conference Papers
 - Eric C. Hall, Rebecca M. Willett, "[Online Learning of Neural Network Structure From Spike Trains](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7146778)," 7th International IEEE EMBS Neural Engineering Conference (NER '15), 2015
