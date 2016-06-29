@@ -6,13 +6,14 @@
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
         <!--<li><a href="{{ site.baseurl }}blog.html">BLOG</a></li> -->
-        <li><a href="{{ site.baseurl }}Code.html">Academic Code</a></li>
-        <!--<li><a href="http://biomadeira.github.io/vitae">RESUME</a></li>-->
-	  {% for my_page in site.pages %}
+        <li><a href="{{ site.baseurl }}code.html">Academic Code</a></li>
+        <li><a href="{{ site.baseurl }}publications.html">Publications</a></li>
+	<!--<li><a href="http://biomadeira.github.io/vitae">RESUME</a></li>-->
+	<!--  {% for my_page in site.pages %}
           {% if my_page.title %}
           <li><a class="page-link" href="{{ my_page.url }}">{{ my_page.title }}</a></li>
           {% endif %}
-        {% endfor %}	
+        {% endfor % }-->	
       </ul>
     </div>
   </div>
