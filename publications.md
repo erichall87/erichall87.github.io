@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Journal Papers
-- Eric C. Hall, Garvesh Raskutti, Rebecca M. Willett, "Inference of High-dimensional Autoregressive Generalized Linear Models," IEEE Journal on Information Theory *(submitted)*, 2016. \[[arxiv](http://arXiv.org/abs/1605.02693)\]
+- Eric C. Hall, Garvesh Raskutti, Rebecca M. Willett, "Inference of High-dimensional Autoregressive Generalized Linear Models," IEEE Journal on Information Theory *(submitted)*, 2016. \[[arXiv](http://arXiv.org/abs/1605.02693)\]
 
 - Eric C. Hall, Rebecca M. Willett, "[Tracking Dynamic Point Processes on Networks](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7469837)," IEEE Journal on Information Theory , vol 62, no 7. 2016. \[[arXiv](http://arXiv.org/abs/1409.0031)\]
 
