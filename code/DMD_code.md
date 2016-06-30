@@ -4,7 +4,7 @@ title: DMD Code
 ---
 
 
-# <center>Dynamic Mirror Descent [<a href="https://arxiv.org/abs/1307.5944">arXiv 1307.5944</a>]</center>
+# <center>[Dynamic Mirror Descent](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7044563) [<a href="https://arxiv.org/abs/1307.5944">arXiv 1307.5944</a>]</center>
 
 ### DMD for Dynamic Textures
 Dynamic Mirror Descent can be used to create predictions of the hidden state of a system in an autoregressive model, which obeys the following update equations:
