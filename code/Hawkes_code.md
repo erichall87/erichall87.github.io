@@ -31,3 +31,5 @@ event times and known network, compared to doing some estimate which allows $$\m
 
 ### Learning the Underlying Network
 Importantly, we want to not only estimate the rate at a given moment, but also to learn the underlying network. To this end we have created an algorithm which simultaneously estimats the network and rate (Algorithm 2, Section V-B), and code that mimics the experiments of Section VII-B is found in `HawkesSynthMain.m` in the [repo](https://github.com/erichall87/HawkesCode) 
+
+<center><img src ="{{ site.baseurl }}static/img/Fig4A.png" height = "200"></center>
