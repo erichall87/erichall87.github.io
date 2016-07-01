@@ -13,6 +13,9 @@ $$\begin{align}
 \mu_k(t) = \mu + \sum_{n=1}^t h_{k,k_{n}}(t - \tau_n)
 \end{align}$$
 
+where $\tau_n$ is the time of the $n^{th}$ event time and $k_n$ is the node involved in the $n^{th}$ event. We are interested in 
+learning relationships between nodes in the network, and to that end we assume the function $h_{i,j}(t) = W_{i,j} h(t)$ for some matrix $W$ and 
+the ``influence function" h(t). Thus we are interested in learning the values of $W$. Our paper and methods aim to learn values of this matrix while simultaneously generating time-evolving estimates of $\mu (t)$ in a fast, online framework.
 
 ### Comparing Our Method to Direct Calculation
 A key aspect of our method is the simulataneous estimate of not only the underlying network, but also the rates. 
