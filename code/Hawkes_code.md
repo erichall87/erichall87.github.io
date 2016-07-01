@@ -22,11 +22,14 @@ A repo of code to reproduce some experiments and to use our Online Hawkes method
 ### Comparing Our Method to Direct Calculation
 A key aspect of our method is the simulataneous estimate of not only the underlying network, but also the rates. 
 By estimating the rates as opposed to just estimating the network and plugging the network in the definition of the 
-Hawkes process we add robustness to model mismatch. This algorithm is described in Section V-A of the [paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7469837).
+Hawkes process we add robustness to model mismatch. This algorithm is described in Section V-A of the [paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7469837). To test the importance of this method, we can compare the performance of directly calculating $$\mu(t)$$ from the observed
+event times and known network, compared to doing some estimate which allows $$\mu(t)$$ to deviate slightly from an exact Hawkes process. An experiment of this type is described in Section VII-A of the paper and code to reproduce this experiment is found in `MismatchMain.m` in the GitHub [repo](https://github.com/erichall87/HawkesCode).
 <center><img src = "{{ site.baseurl }}static/img/Fig1A.png" height = "200">
 <img src = " {{site.baseurl }}static/img/Fig1B.png" height = "200">
 <img src = " {{site.baseurl }}static/img/Fig1B.png" height = "200"></center>
 
-Code to reproduce this experiment is found in `MismatchMain.m` in the GitHub [repo](https://github.com/erichall87/HawkesCode).
+
+
+### Learning the Underlying Network
 
 
