@@ -4,10 +4,20 @@ title: Hawkes Code
 ---
 
 
-# <center>Dynamic Mirror Descent [<a href="https://arxiv.org/abs/1307.5944">arXiv 1307.5944</a>]</center>
+# <center><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7469837">Tracking Dynamic Point Processes on Networks</a> [<a href="https://arxiv.org/abs/1409.0031">arXiv 1409.0031</a>]</center>
 
-### DMD for Dynamic Textures
-Dynamic Mirror Descent can be used to create predictions of the hidden state of a system in an autoregressive model, which obeys the following update equations:
+### Hawkes Process
+The Hawkes process is a multivariate, autoregressive point process defined with the following time-varying intensity function for node $k$ in the network:
+
+$$\begin{align}
+\mu_k(t) = \mu + \sum_{n=1}^t h_{k,k_{n}}(t - \tau_n)
+\end{align}$$
+
+
+### Comparing Our Method to Direct Calculation
+A key aspect of our method is the simulataneous estimate of not only the underlying network, but also the rates. 
+By estimating the rates as opposed to just estimating the network and plugging the network in the definition of the 
+Hawkes process we add robustness to model mismatch.
 
 $$\begin{align}
 x_t & =  C_0 + C \theta_t + w_t \\
