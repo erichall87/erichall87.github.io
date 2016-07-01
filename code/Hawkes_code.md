@@ -21,9 +21,9 @@ the "influence function" $$h(t)$$. Thus we are interested in learning the values
 A key aspect of our method is the simulataneous estimate of not only the underlying network, but also the rates. 
 By estimating the rates as opposed to just estimating the network and plugging the network in the definition of the 
 Hawkes process we add robustness to model mismatch. This algorithm is described in Section V-A of the [paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7469837).
-<center><img src = "{{ site.baseurl }}static/img/Fig1A.pdf" height = "200">
-<img src = " {{site.baseurl }}static/img/Fig1B.pdf" height = "200">
-<img src = " {{site.baseurl }}static/img/Fig1B.pdf" height = "200"></center>
+<center><img src = "{{ site.baseurl }}static/img/Fig1A.png" height = "200">
+<img src = " {{site.baseurl }}static/img/Fig1B.png" height = "200">
+<img src = " {{site.baseurl }}static/img/Fig1B.png" height = "200"></center>
 
 Code to reproduce this experiment is found in `MismatchMain.m` in the GitHub repo.
 
